@@ -1,6 +1,10 @@
 {
   "name": "create-express-ts-app",
   "displayName": "Create Express TS App",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/716green/vsce-create-express-ts-app"
+  },
   "description": "Bootstrap an Express app with TypeScript, bootstrapped and ready to start building in 10 seconds.",
   "version": "0.0.1",
   "engines": {

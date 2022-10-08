@@ -19,4 +19,4 @@ It's just that simple
 
 ---
 
-## [716green on GitHub]('https://github.com/716green')
+## https://github.com/716green
